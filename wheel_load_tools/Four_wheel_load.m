@@ -36,7 +36,7 @@ function  N = Four_wheel_load(car,check)
 end
 
 %% 使用範例
-%N = Four_wheel_load_LSM(car,true);% false
+%N = Four_wheel_load(car,true);% false
 %{
 -------------------------------
 % 車輛參數
